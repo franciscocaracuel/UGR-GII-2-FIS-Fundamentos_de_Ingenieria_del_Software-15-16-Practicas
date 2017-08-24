@@ -1,0 +1,3 @@
+En el archivo DiagramaClase.vpp se encuentra el diagrama de clase de la página 1 de los diagramas.
+
+En el archivo DiagramasSecuenciaInteraccion.vpp están el resto de diagramas. Lo entrego así porque no sé como unificarlos todos en un solo proyecto una vez hechos.
